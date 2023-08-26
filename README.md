@@ -10,6 +10,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anacamila-design&repo=queima2m2&theme-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anacamila-design&repo=queima2m2&theme-dark)](https://github.com/anacamila-design/queima2m2/github-readme-stats)
+
 
 ### Linguagens
 
