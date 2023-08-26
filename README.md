@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá 👋
+### Habilidades
+![Python](https://img.shields.io/badge/Python-FFD43B?style-for-the-badge&logo-python&logoColor-blue)
+![HTML](https://img.shields.io/badge/HTML-ED8B00?style-for-the-badge&logo-HTML&logoColor-white)
+![CSS](https://img.shields.io/badge/CSS-FA7343?style-for-the-badge&logo-CSS&logoColor-white)
 
-<!--
-**anacamila-design/anacamila-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacamila-design&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+### Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anacamila-design&repo=q2m2&theme-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacamila-design&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacamila-design&size_weight=0.5&count_weight=0.5)
+
+
+
+### Contatos
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-camila-fonseca13/)](https://www.linkedin.com/in/ana-camila-fonseca13/)
+
+
